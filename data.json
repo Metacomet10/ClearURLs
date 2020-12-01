@@ -456,6 +456,12 @@
             ],
             "exceptions": [],
             "redirections": []
+        },
+        "metacomet10.com": {
+            "urlPattern": "https:\\/\\/(foundry)?\\.?metacomet10\\.com.*",
+            "exceptions": [
+                "https:\\/\\/(foundry)?\\.?metacomet10\\.com.*"
+            ]
         }
     }
 }
